@@ -12,7 +12,7 @@ This Java application allows users to manage and analyze basketball player stati
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/caaseey/Basketball
    ```
 2. Open the project in an IDE (e.g., NetBeans, IntelliJ IDEA).
 3. Run the `AppLiga` class to start the program.
